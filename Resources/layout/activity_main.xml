@@ -29,4 +29,10 @@
         android:layout_width="278.0dp"
         android:layout_height="52.0dp"
         android:id="@+id/TranslatedPhoneword" />
+    <Button
+        android:text="@string/translationHistory"
+        android:layout_width="380.0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/TranslationHistoryButton"
+        android:enabled="false" />
 </LinearLayout>
